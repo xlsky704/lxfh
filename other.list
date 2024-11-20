@@ -1,0 +1,8 @@
+# 内容： other 
+# 域名关键字匹配
+# DOMAIN-KEYWORD,hongxingdl
+# DOMAIN-KEYWORD,missav
+# 域名后缀匹配
+DOMAIN-SUFFIX,hongxingdl.com
+DOMAIN-SUFFIX,missav.com
+DOMAIN-SUFFIX,rou.video
