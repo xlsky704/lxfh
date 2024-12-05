@@ -2,7 +2,14 @@
 # 域名关键字匹配
 # DOMAIN-KEYWORD,hongxingdl
 # DOMAIN-KEYWORD,missav
+# DOMAIN-KEYWORD,qichiyu
+# DOMAIN-KEYWORD,sun-panel
 # 域名后缀匹配
+DOMAIN-SUFFIX,y2down.cc
+DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,clashyun.com
+DOMAIN-SUFFIX,vumstar.com
+DOMAIN-SUFFIX,jdssl.top
 DOMAIN-SUFFIX,hongxingdl.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,rou.video
