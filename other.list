@@ -4,6 +4,7 @@
 # DOMAIN-KEYWORD,missav
 # DOMAIN-KEYWORD,qichiyu
 # DOMAIN-KEYWORD,sun-panel
+#DOMAIN-KEYWORD,cshjc.top
 # 域名后缀匹配
 DOMAIN-SUFFIX,y2down.cc
 DOMAIN-SUFFIX,qichiyu.com
@@ -19,3 +20,4 @@ DOMAIN-SUFFIX,surrit.com
 DOMAIN-SUFFIX,cdnjs.cloudflare.com
 DOMAIN-SUFFIX,client-rapi-missav.recombee.com
 DOMAIN-SUFFIX,v.rn113.xyz
+DOMAIN-SUFFIX,cshjc.top
